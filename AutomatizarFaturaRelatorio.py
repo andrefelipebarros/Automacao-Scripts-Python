@@ -1,6 +1,3 @@
-import psycopg2
-import xlsxwriter
-from dateutil.parser import parse
 import schedule
 import time
 
